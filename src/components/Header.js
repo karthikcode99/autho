@@ -44,7 +44,7 @@ export default function Header() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            INVOICE
+            STORE
           </Typography>
 
           <Link to="/signup">
